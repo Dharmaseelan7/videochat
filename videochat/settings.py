@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-b1fe%#98g8#kx^%r#x%w36i^rt$3(lt7$oo85dvhrt95(woh!8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['vercel.app', '.now.sh']
+ALLOWED_HOSTS = ['https://videochat-production.up.railway.app/']
 
 
 # Application definition
