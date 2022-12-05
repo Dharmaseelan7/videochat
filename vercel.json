@@ -15,7 +15,7 @@
    
         {
             "src": "/(.*)",
-            "dest": "videochat/wsgi.py"
+            
         }
     ]
 }
